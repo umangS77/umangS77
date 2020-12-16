@@ -12,12 +12,12 @@ Hi, I'm [Umang Srivastava!](https://umangs77.github.io), a CSE student at IIIT-H
 
   <img align="right" alt="GIF" src="https://github.com/umangs77/umangs77/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on relaxing my body mind and soul :wink:;
 - 🌱 I’m ready to learn whatever I can find a tad interesting; 
 - 💬 Wanna ask me something? Wait lemme google;
-- 📫 How to reach me: [email](umang.srivastava@students.iiit.ac.in);
+- 📫 How to reach me: `umang.srivastava@students.iiit.ac.in`;
 
 **Languages and Tools:**  
 
@@ -31,12 +31,11 @@ Hi, I'm [Umang Srivastava!](https://umangs77.github.io), a CSE student at IIIT-H
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umangs77&show_icons=true&theme=gotham" alt="umangs77" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umangS77&show_icons=true&theme=gotham" alt="umangS77" />
 
 
 
