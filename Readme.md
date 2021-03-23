@@ -5,9 +5,8 @@
 <a href="https://www.facebook.com/umang.srivastava.777/">
   <img align="left" alt="Umang's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-
 <br>
-
+<br>
 Hi, I'm [Umang Srivastava!](https://umangs77.github.io), a CSE student at IIIT-Hyderabad.
 
   <img align="right" alt="GIF" src="https://github.com/umangs77/umangs77/blob/master/code.gif?raw=true" width="500" height="320" />
