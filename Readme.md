@@ -7,7 +7,7 @@
 </a>
 <br>
 <br>
-Hi, I'm [Umang Srivastava](https://umangs77.github.io), a CSE student at IIIT-Hyderabad.
+Hi, I'm [Umang](https://umangs77.github.io), a CSE student at IIIT-Hyderabad.
 
   <img align="right" alt="GIF" src="https://github.com/umangs77/umangs77/blob/master/code.gif?raw=true" width="500" height="320" />
   
