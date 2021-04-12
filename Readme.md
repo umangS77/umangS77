@@ -17,6 +17,7 @@ Hi, I'm Umang Srivastava![https://umangs77.github.io], a CSE student at IIIT-Hyd
 - 🌱 I’m ready to learn whatever I can find a tad interesting  
 - 💬 Wanna ask me something? Wait lemme google  
 - 📫 How to reach me: `umang.srivastava@students.iiit.ac.in`  
+- [Resume](./Resume_Umang_Srivastava.pdf)
 
 **Languages and Tools:**  
 
