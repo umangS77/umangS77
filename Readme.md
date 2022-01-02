@@ -8,16 +8,14 @@
 <br>
 <br>
 Hi, I'm Umang, a CSE student at IIIT-Hyderabad.
-
-  <img align="right" alt="GIF" src="https://github.com/umangs77/umangs77/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/umangs77/umangs77/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on relaxing my body mind and soul :wink:  
+- 👨🏽‍💻 I’m currently working on anything I can learn from :wink:  
 - 🌱 I’m ready to learn whatever I can find a tad interesting  
-- 💬 Wanna ask me something? Wait lemme google  
 - 📫 How to reach me: `umang.srivastava@students.iiit.ac.in`  
-- [Resume](https://drive.google.com/file/d/1E02v7LncmZZWzH2ZYHr3VFTaNHgRQlqu/view?usp=sharing)  |  [Personal Website](https://umangs77.github.io)
+- [Resume](https://drive.google.com/file/d/1MK0_iJjERYf6qrF60UvINUN0_aMaj2Sn/view?usp=sharing)  |  [Personal Website](https://umangs77.github.io)
 
 **Languages and Tools:**  
 
